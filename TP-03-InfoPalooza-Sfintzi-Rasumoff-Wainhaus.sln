@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus", "TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.csproj", "{6BA6C2A3-9E92-42BE-8B46-9F6FA3C53745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA6C2A3-9E92-42BE-8B46-9F6FA3C53745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA6C2A3-9E92-42BE-8B46-9F6FA3C53745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA6C2A3-9E92-42BE-8B46-9F6FA3C53745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA6C2A3-9E92-42BE-8B46-9F6FA3C53745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB6A0FA-62D9-426D-BBEE-86518F90ED7E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\bin\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.exe
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\bin\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.deps.json
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\bin\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.runtimeconfig.json
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\bin\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.dll
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\bin\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.pdb
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.csproj.AssemblyReference.cache
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.AssemblyInfoInputs.cache
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.AssemblyInfo.cs
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.csproj.CoreCompileInputs.cache
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.dll
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\refint\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.dll
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.pdb
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.genruntimeconfig.cache
+C:\Users\JSS\Desktop\Escuela\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus\obj\Debug\net7.0\ref\TP-03-InfoPalooza-Sfintzi-Rasumoff-Wainhaus.dll
